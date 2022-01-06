@@ -1,7 +1,7 @@
 import sys
 
 sys.path.insert(
-    0, 'C:\\Users\\hendr\\AppData\\Local\\Temp\\packageit_lfnb70r3\\PackageItTest\\src'
+    0, 'C:\\Users\\hendr\\AppData\\Local\\Temp\\packageit_thbchxhm\\PackageItTest\\src'
 )
 project = 'PackageItTest'
 copyright = '2022, Ann Other'
